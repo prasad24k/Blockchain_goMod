@@ -1,0 +1,7 @@
+# Set default behavior to leave line endings as-is
+* text=auto
+
+# Explicitly set line endings for specific files
+*.go text eol=lf
+*.mod text eol=lf
+*.sum text eol=lf
